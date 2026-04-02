@@ -7,7 +7,7 @@ import { Component } from "@angular/core";
 })
 
 export class dados {
-    name = 'GUILHERME';
-    numero = 17;
+    name = 'Guilherme';
+    numero = 12;
     serie = '3° ano B Informática'
 }
